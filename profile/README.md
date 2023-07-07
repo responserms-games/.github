@@ -10,7 +10,7 @@ The following FiveM resources may be installed to enable functionality for Respo
 
 The FiveM plugins listed below require that the [FiveM Core](https://github.com/responserms-games/fivem) be installed and set to start within your FX Server configuration. For more information on getting started with FiveM, see our game integation documentation here: **coming soon**
 
-### [Calls](https://github.com/responserms-games/fivem-calls/releases/latest)
+### [FiveM - Calls](https://github.com/responserms-games/fivem-calls/releases/latest)
 
 Allow civilians to create both non-emergency and emergency calls using the Response Incident Survey feature. Customize incident surveys using the Response Admin console and they'll show up in-game automatically.
 
