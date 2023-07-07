@@ -8,4 +8,4 @@ The following list is a complete catalog of our Game integrations and the plugin
 
 ### GTA V - FiveM
 
-- [Core](/responserms-games/fivem/releases/latest)
+- [Core](https://github.com/responserms-games/fivem/releases/latest)
